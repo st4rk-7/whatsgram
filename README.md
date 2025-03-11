@@ -125,3 +125,7 @@ This bot must be deployed on a server environment such as a Raspberry Pi or simi
 2. **WhatsApp Web Dependency**: The bot relies on WhatsApp Web and requires a mobile device with an active WhatsApp account. You will need to scan the QR code using the **Link Device** option in WhatsApp on your phone to connect the bot to your WhatsApp account.
 
 3. **Contacts on Original WhatsApp Account**: The bot only has access to the contacts and groups that are available in the original WhatsApp account on your phone. Any new contact or group must be added to your mobile device's WhatsApp for the bot to interact with them.
+
+# Credits
+
+- <b>Huge Thanks to the original Project https://gitlab.com/mandi.beats/whatsgramv2 </b>
